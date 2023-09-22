@@ -1,0 +1,9 @@
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: var(--bg-primary);
+    color: var(--color-primary);
+    grid-area: header;
+}
